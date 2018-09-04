@@ -1,0 +1,110 @@
+/*img
+{
+	/*width:10%;*/
+    /*height:200%;
+    margin-top:-10px;
+}*/
+#logotitle
+{
+	font-size: 36px;
+	font-weight: bold;
+	color: #ffffff;
+	padding-right:125px;
+}
+img
+{
+	width:90%;
+	float:left;
+	margin-left: 60px;
+	padding-bottom: 20px;
+}
+.classheading
+{
+	font-size: 2.4em;
+    letter-spacing: -1px;
+    color: #007897;
+    font-weight: normal;
+    text-align: center;
+}
+.maincontent
+{
+	line-height: 25px;
+	font-size:1.2em;
+	padding-left: 10%;
+	padding-right: 15%;
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+@media screen and (max-width: 500px)
+{
+	#mainphoto
+	{
+		margin-left: -50px;
+	}
+}
+#homehr 
+{
+    width: 800px;
+    border-top: 1px solid #c0c0c0;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+#abouthr
+{
+	width: 200px;
+	border-top: 1px solid #c0c0c0;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.contacts
+{
+	padding-left: 10%;
+}
+/*.form
+{
+	padding-left: 15%;
+	padding-top: 2%;
+	padding-right:5%;
+}
+*/form
+{
+	/*background-color: lightgreen;*/
+	padding-left: 15%;
+	padding-top: 2%;
+	margin-left: 15%;
+}
+#submit
+{
+	margin-left:15%;
+}
+#contactus
+{
+	padding-left: 15%;
+	color: #007897;
+	padding-bottom:-20%;
+}
+#contactushr
+{
+	margin-right:70%;
+	margin-left: 15%;
+	border-top: 1px solid #c0c0c0;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+label
+{
+	font-size: 1.2em;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	color: #007897;
+}
+#news, #ongoingevents, #upcomingevents, #pastevents
+{
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-bottom: 5%;
+}
+#n1,#n2,#n3,#n4,#oe1,#oe2,#oe3,#oe4,#ue1,#ue2,#ue3,#ue4,#pe1,#pe2,#pe3,#pe4
+{
+	background-color: #f1f1f1;
+	border:3px solid white;
+}
+#newsh2, #ongoingeventsh2, #upcomingeventsh2, #pasteventsh2
+{
+	color:#007897;
+}
